@@ -10,6 +10,7 @@
     "react-dom": "^0.14.7"
   },
   "devDependencies": {
+    "bootstrap": "^3.3.6",
     "grunt-browser-sync": "^2.2.0",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-concat": "^1.0.0",
@@ -29,7 +30,7 @@
   "keywords": [
     "react"
   ],
-  "author": "",
+  "author": "nanakyriaz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nanakyriaz/react-toodoo/issues"
